@@ -1,6 +1,7 @@
 # Widget 
 
-A project from the Udemy course Modern React with Redux [2020 Update].
+Live version: https://reactwidgetz.netlify.app
+A project from the Udemy course Modern React with Redux [2020 Update].\
 The project shows manual routing, dropdown, searching and using the Wikipedia and Google translate API.
 
 # Getting Started with Create React App
