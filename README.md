@@ -1,3 +1,8 @@
+# Widget 
+
+A project from the Udemy course Modern React with Redux [2020 Update].
+The project shows manual routing, dropdown, searching and using the Wikipedia and Google translate API.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
